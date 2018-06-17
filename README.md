@@ -20,5 +20,5 @@
 
 - [React Native Tutorial](https://www.tutorialspoint.com/react_native/index.htm)
 - [A gradle plugin to calculate Android-friendly version names and codes from git tags.](https://github.com/gladed/gradle-android-git-version)
-- [](https://streetsmartdev.com/creating-form-select-component-in-react-native/)
+- [https://streetsmartdev.com/creating-form-select-component-in-react-native/](https://streetsmartdev.com/creating-form-select-component-in-react-native/)
 
