@@ -5,7 +5,8 @@
 - [Butter Knife](https://github.com/JakeWharton/butterknife)
 - [Android Saripaar](https://github.com/ragunathjawahar/android-saripaar) UI form validation library for Android.
 - [AwesomeValidation](https://github.com/thyrlian/AwesomeValidation) Implement validation for Android within only 3 steps
-- [Android Form library!](https://github.com/eddmash/android-form)  
+- [Android Form library!](https://github.com/eddmash/android-form)
+- [https://github.com/mumayank/AirLocation](Android library which simply gets you user's most precise current location via a callback!)    
 
 ---
 
